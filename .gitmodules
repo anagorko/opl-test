@@ -1,3 +1,0 @@
-[submodule "linalg"]
-	path = linalg
-	url = https://github.com/anagorko/linalg.git
